@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "availableTimes": "Next on Tue Jul 4",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "10pm - 10:25pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 2,
+    "availableTimes": "Next on Tue Jul 4",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11pm - 11:25pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 3,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "5pm - 5:25pm",
+    "text": ""
+  },
+  {
+    "id": 4,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "6:30pm - 6:55pm",
+    "text": ""
+  },
+  {
+    "id": 5,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "6:30pm - 6:55pm",
+    "text": ""
+  },
+  {
+    "id": 6,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "09:00pm - 9:25pm",
+
+    "text": ""
+  },
+  {
+    "id": 7,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "09:30pm - 9:55pm",
+
+    "text": ""
+  },
+  {
+    "id": 8,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "10pm - 10:25pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 9,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11:00pm - 11:25pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 10,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "12:30pm - 12:55pm",
+    "text": ""
+  },
+  {
+    "id": 11,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11:00pm - 11:25pm",
+    "text": ""
+  },
+  {
+    "id": 12,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11:30pm - 11:55pm",
+    "text": ""
+  },
+  {
+    "id": 13,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11:00pm - 11:25pm",
+    "text": ""
+  },
+  {
+    "id": 14,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "11:30pm - 11:55pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 15,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "5:30pm - 5:55pm",
+    "text": "Outside 6am-10pm in your local time:"
+  },
+  {
+    "id": 16,
+    "availableTimes": "Next on Tue Jul 5",
+    "meetsNumber": "Meets once per week",
+    "day": "Monday",
+    "slots": "09:30pm - 9:55pm",
+
+    "text": ""
+  }
+]
